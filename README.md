@@ -12,7 +12,7 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 
 **WARNING: YOU COULD RISK YOUR COLAB FREE TIER ACCOUNT**
 
-- Run UI <a target="_blank" href="https://colab.research.google.com/github/Nick088Official/FaceFusion-Colab/blob/main/FaceFusion_UI.ipynb">
+- Run UI <a target="_blank" href="https://colab.research.google.com/github/tianleee/FaceFusion-Colab/blob/main/FaceFusion_UI.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
